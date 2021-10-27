@@ -1,16 +1,35 @@
-### Hi there 👋
+![Header](cregennan_logo.png)
 
-<!--
-**Cregennan/cregennan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a freelance fullstack developer
 
-Here are some ideas to get you started:
+**About me**
+- 💼 I work for myself, for fun and for code.
+- ❤️ C# one love, it is the best language of all time
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cregennan&theme=dark&show_icons=true&bg_color=003b6f"/>  
+
+<br/>
+<br/>
+
+**Social media**
+
+<a href="https://t.me/cregennanoflod">
+<img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/>
+</a>
+
+<br/>
+<br/>
+<br/>
+
+**Languages**
+
+<span>
+  <img src="https://img.shields.io/badge/-PHP-003b6f?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/-Laravel-003b6f?style=for-the-badge&logo=laravel"/>
+  <img src="https://img.shields.io/badge/-JavaScript-003b6f?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-React-003b6f?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/-C%23-003b6f?style=for-the-badge&logo=csharp"/>
+  <img src="https://img.shields.io/badge/-C++-003b6f?style=for-the-badge&logo=cplusplus"/>
+</span>
