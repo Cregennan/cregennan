@@ -8,8 +8,8 @@ Hi! I'm a freelance fullstack developer
 <br/>
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cregennan&theme=dark&show_icons=true&bg_color=003b6f"/>  
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=cregennan&theme=dark&show_icons=true&bg_color=003b6f"/>  
+ -->
 <br/>
 <br/>
 
