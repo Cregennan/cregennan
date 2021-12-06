@@ -1,12 +1,6 @@
 ![Header](cregennan_logo.png)
 
-Hi! I'm a freelance fullstack developer
 
-**About me**
-- 💼 I work for myself, for fun and for code.
-- ❤️ C# one love, it is the best language of all time
-
-**Social media**
 
 <a href="https://t.me/cregennanoflod">
 <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/>
