@@ -11,10 +11,7 @@
 **Languages**
 
 <span>
-  <img src="https://img.shields.io/badge/-PHP-003b6f?style=for-the-badge&logo=php"/>
   <img src="https://img.shields.io/badge/-Laravel-003b6f?style=for-the-badge&logo=laravel"/>
-  <img src="https://img.shields.io/badge/-JavaScript-003b6f?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/-React-003b6f?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/-C%23-003b6f?style=for-the-badge&logo=csharp"/>
-  <img src="https://img.shields.io/badge/-C++-003b6f?style=for-the-badge&logo=cplusplus"/>
 </span>
